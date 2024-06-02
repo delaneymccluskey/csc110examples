@@ -1,8 +1,8 @@
-package labs;
+labs;
 
-// Wile E. Coyote
-// CSC110AB Section 12345
-// January 15, 2024
+// Delaney McCluskey
+// CSC110AB Section 16084
+// June 2, 2024
 
 public class Module01Lab {
 
